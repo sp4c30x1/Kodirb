@@ -11,5 +11,6 @@ Metasploit --> https://github.com/rapid7/metasploit-framework
 2. After create files zip them `zip -r myaddon.zip <your_chosen_folder>`
 3. Kodi installation with zip files http://kodi.wiki/view/HOW-TO:Install_add-ons_from_zip_files
 4. More info: `http://kodi.wiki/view/Addons_for_XBMC `
+5. Use in the same path of metasploit
 
-5. Obs: tool still in BETA
+6. Obs: tool still in BETA
