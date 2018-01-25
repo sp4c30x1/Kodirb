@@ -14,3 +14,5 @@ Metasploit --> https://github.com/rapid7/metasploit-framework
 5. Use in the same path of metasploit
 
 6. Obs: tool still in BETA
+
+![alt text](https://github.com/sp4c30x1/Kodirb/blob/master/kodirb.png)
